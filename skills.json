@@ -1,14 +1,14 @@
 {
-"skills 1": "Test theory",
-"skills 2": "HTTP Methods/codes",
-"skills 3": "Soap/Rest",
-"skills 4": "API",
-"skills 5": "Logs",
-"skills 6": "Sniffers",
-"skills 7": "Dev Tools",
-"skills 8": "Mobile Testing",
-"skills 9": "ADB/XCode",
-"skills 10": "Terminal Linux",
-"skills 11": "bash scripts",
-"skills 12": "SQL"
+"skill 1": "Test theory",
+"skill 2": "HTTP Methods/codes",
+"skill 3": "Soap/Rest",
+"skill 4": "API",
+"skill 5": "Logs",
+"skill 6": "Sniffers",
+"skill 7": "Dev Tools",
+"skill 8": "Mobile Testing",
+"skill 9": "ADB/XCode",
+"skill 10": "Terminal Linux",
+"skill 11": "bash scripts",
+"skill 12": "SQL"
 }
