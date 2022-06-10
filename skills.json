@@ -1,14 +1,4 @@
 {
-"skill 1": "Test theory",
-"skill 2": "HTTP Methods/codes",
-"skill 3": "Soap/Rest",
-"skill 4": "API",
-"skill 5": "Logs",
-"skill 6": "Sniffers",
-"skill 7": "Dev Tools",
-"skill 8": "Mobile Testing",
-"skill 9": "ADB/XCode",
-"skill 10": "Terminal Linux",
-"skill 11": "bash scripts",
-"skill 12": "SQL"
+  "skills":[ "Test theory","HTTP Methods/codes","Soap/Rest","API","Logs","Sniffers","Dev Tools","Mobile Testing","ADB/XCode","Terminal Linux","bash scripts","SQL"
+  ]
 }
