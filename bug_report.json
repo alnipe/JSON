@@ -1,10 +1,11 @@
 {
   "Summary": "COVID-19 page: The blank page is opened from link 'Promotion' in the footer",
-  "Step 1": "Open main page",
-  "Step 2": "Go to footer",
-  "Step 3": "In “Browse by Category” follow the link COVID-19",
-  "Step 4": "Go to footer COVID-19 page",
-  "Step 5": "In “Browse by Category” follow the link 'Promotion'",
+  "STR":[ "1. Open main page",
+  "2. Go to footer",
+  "3. In “Browse by Category” follow the link COVID-19",
+  "4. Go to footer COVID-19 page",
+   "5. In “Browse by Category” follow the link 'Promotion'"
+  ],
   "Result": "The Вlank page is opened",
   "Expected result": "The page of products with special offers is opened",
   "Severity": "Blocker",
